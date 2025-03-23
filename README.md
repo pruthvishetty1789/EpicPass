@@ -8,21 +8,21 @@ EpicPass is a modern movie ticket booking platform built with **React.js** and *
 
 ### 🏠 Home Page
 
-📸 ![Home Page](./Screenshot/home.jpg)
+ ![Home Page](./Screenshot/home.jpg)
 
 The landing page displays the latest movies, events, and special offers.
 
 
 ### 🎭 Movie Details Page
 
-📸 ![Movie Details](./Screenshot/.jpg)
+ ![Movie Details](./Screenshot/trailer.jpg)
 
 Users can browse available movies with their posters, genres, and ratings.
 Detailed information about a movie, including trailers, cast, and synopsis.
 
 ### 🎟️ Seat Selection
 
-📸 ![Seat Selection](./Screenshot/seat.jpg)
+ ![Seat Selection](./Screenshot/seats.jpg)
 
 An interactive seat selection interface for booking movie tickets.
 
@@ -32,19 +32,19 @@ Easily switch between light and dark themes for better user experience.
 
 ### 🍿️ Events Page
 
-📸 ![Events](./Screenshot/events.jpg)
+ ![Events](./Screenshot/event.jpg)
 
 Find and explore information about concerts, plays, and other live events.
 
 ### 🏆 Sports Section
 
-📸 ![Sports](./Screenshot/sports.jpg)
+ ![Sports](./Screenshot/sports.jpg)
 
 Stay updated with live sports events, schedules, and details.
 
 ### 🎁 Offers Page
 
-📸 ![Offers](./Screenshot/offers.jpg)
+ ![Offers](./Screenshot/offer.jpg)
 
 Check out special discounts and promotional offers on movie tickets and events.
 
@@ -128,9 +128,6 @@ Contributions are **welcome**! If you'd like to improve the project:
 
 This project is licensed under the **MIT License**.
 
----
 
-📢 **Note:** Make sure to upload your images to the `Screenshot/` folder in your GitHub repo and update the paths in this README.
 
-🔥 Happy Coding! 🔥
 
